@@ -36,7 +36,6 @@ jobs:
           popd
 
 
-      # Copy source
       # Azure Functions performs the build using these app settings
       # ENABLE_ORYX_BUILD=true
       # SCM_DO_BUILD_DURING_DEPLOYMENT=true

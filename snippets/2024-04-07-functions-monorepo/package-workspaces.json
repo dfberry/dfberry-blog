@@ -1,0 +1,6 @@
+{
+  "workspaces": [
+    "packages/*",           // include all packages under /packages
+    "!packages/legacy/*"    // except all packages under /packages/legacy
+  ],
+}

@@ -1,0 +1,14 @@
+- package.json
+- packages
+    - products
+        - package.json
+        - package-lock.json
+        - src
+            - functions
+                - product.js
+    - sales
+        - package.json
+        - package-lock.json
+        - src
+            - functions
+                - sales.js
